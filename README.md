@@ -37,7 +37,7 @@ This project analyzes survey data from 1,000 students to discover how their habi
 
 | File Name                             | Description                              |
 |--------------------------------------|------------------------------------------|
-| `Student_Habits_Performance.pbix`    | The full Power BI report                 |
+| `Student_Habits_Performance Analysis.pbix`    | The full Power BI report                 |
 | `student_habits_performance.csv`     | The raw dataset used for analysis        |
 | `Student_Habits_Performance Analysis.pdf` | PDF export of the final dashboard    |
 | `README.md`                          | Project overview and documentation       |
