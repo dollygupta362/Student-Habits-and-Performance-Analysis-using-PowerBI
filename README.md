@@ -52,7 +52,6 @@ This project was a great opportunity to:
 
 ## 🙋‍♂️ About Me
 👤 **Dolly Gupta**  
-🔗 LinkedIn: [www.linkedin.com/in/dolly-gupta-3b54b8229](https://www.linkedin.com/in/dolly-gupta-3b54b8229)  
-📧 Email: dollygupta362@gmail.com
-
+🔗 **LinkedIn:** [www.linkedin.com/in/dolly-gupta-3b54b8229](https://www.linkedin.com/in/dolly-gupta-3b54b8229)  
 📧 **Email:** dollygupta362@gmail.com
+
