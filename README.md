@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>🎓 Student Habits & Performance Analysis (Power BI Project)</h1>
-</p>
+<h1 align="center">🎓 Student Habits & Performance Analysis (Power BI Project)</h1>
 Welcome to the Student Habits & Performance Analysis project! This Power BI dashboard dives into the behavioral and lifestyle factors affecting student academic performance. Built as part of a hands-on data storytelling initiative, the project uses real-world BI practices to present insights around health, technology usage, family background, and study patterns.
 
 ## 📘 About the Project
